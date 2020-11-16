@@ -1,0 +1,21 @@
+/*CSS Criar/Deletar/Inserir manualmente tabelas*/
+body {
+   background-color: black;
+}
+#positivo {
+   color: blue;
+   text-align: center;
+   font-size: 50px;
+   font-family: Verdana;
+   background-color: black;
+}
+
+#negativo {
+   color: crimson;
+   text-align: center;
+   font-size: 50px;
+   font-family: Verdana;
+   background-color: black;
+}
+
+/*----------------------------------*/
